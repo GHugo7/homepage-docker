@@ -1,4 +1,4 @@
-<h1 align="center">Kyrion Homepage</h1>
+<h1 align="center">Homepage Docker</h1>
 
 <p align="center">
   Dashboard auto-généré pour homelab — découvre les containers Docker et les expose dans une interface web.
@@ -58,8 +58,8 @@ Résultat : un nouveau container apparaît sur le dashboard dès qu'il démarre,
 ## Installation
 
 ```bash
-git clone https://github.com/GHugo7/kyrion-homepage.git
-cd kyrion-homepage
+git clone https://github.com/GHugo7/homepage-docker.git
+cd homepage-docker
 ```
 
 ### Backend
